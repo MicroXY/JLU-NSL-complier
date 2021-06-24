@@ -1,0 +1,440 @@
+program main 
+	type aaa=integer;
+		 bbb=char;
+		 vvv=bbb;
+		 sss=array [1..100] of char;
+		 {你好，世界！}
+		 mmm=record 
+					integer qqq,cxcx;
+					char lll,wewe;
+					array [2..10] of integer kjkj,uyuy;
+			 end;
+	var integer v1,vd,vf,vg;
+		integer v2;
+		char c,das,dss;
+		mmm o;
+		sss p;
+		sss iii;
+		array [1..100] of char opop,sdshj;
+		array [1..100] of integer lklk;
+		record 
+					integer qqq,cxcx;
+					char lll,wewe;
+					array [2..10] of integer kjkj,uyuy;
+		end  hhhh,jjjj;
+	procedure f1(var integer a;integer b;bbb sd);
+		type aaa=integer;
+			 bbb=char;
+			 vvv=bbb;
+			 sss=array [1..100] of char;
+			 {你好，世界！}
+			 mmm=record 
+						integer qqq,cxcx;
+						char lll,wewe;
+						array [2..10] of integer kjkj,uyuy;
+				 end;
+		var integer v1,vd,vf,vg;
+			integer v2;
+			char c,das,dss;
+			mmm o;
+			sss p;
+			sss iii;
+			array [1..100] of char opop,sdshj;
+			array [1..100] of integer lklk;
+			record 
+						integer qqq,cxcx;
+						char lll,wewe;
+						array [2..10] of integer kjkj,uyuy;
+			end  hhhh,jjjj;
+		procedure f2(var integer a;integer b;bbb sd);
+			type aaa=integer;
+				 bbb=char;
+				 vvv=bbb;
+				 sss=array [1..100] of char;
+				 {你好，世界！}
+				 mmm=record 
+							integer qqq,cxcx;
+							char lll,wewe;
+							array [2..10] of integer kjkj,uyuy;
+					 end;
+			var integer v1,vd,vf,vg;
+				integer v2;
+				char c,das,dss;
+				mmm o;
+				sss p;
+				sss iii;
+				array [1..100] of char opop,sdshj;
+				array [1..100] of integer lklk;
+				record 
+							integer qqq,cxcx;
+							char lll,wewe;
+							array [2..10] of integer kjkj,uyuy;
+				end  hhhh,jjjj;
+			begin
+				v1 := v2 ;
+				v2 := 3 ;
+				if 5+5*(5+1) < 55 then
+					while v2=0 do
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+				else
+					if 5+5*(5+1) < 55 then
+					while v2=0 do
+						read(v2);
+						c:=p[12];
+						lklk[1]:=lklk[2];
+						hhhh.cxcx:=v1;
+						jjjj.uyuy[5]:=v2;
+						v2:=2;
+						if 5+5*(5+1) < 55 then
+							while v2=0 do
+								write(5+66666)
+							endwh;
+							read(v2);
+							c:=p[12];
+							lklk[1]:=lklk[2];
+							hhhh.cxcx:=v1;
+							jjjj.uyuy[5]:=v2;
+							v2:=2;
+							return(5)
+						else
+							if 5+5*(5+1) < 55 then
+							while v2=0 do
+								read(v2);
+								c:=p[12];
+								lklk[1]:=lklk[2];
+								hhhh.cxcx:=v1;
+								jjjj.uyuy[5]:=v2;
+								v2:=2;
+								write(5+66666)
+							endwh;
+							read(v2);
+							c:=p[12];
+							lklk[1]:=lklk[2];
+							hhhh.cxcx:=v1;
+							jjjj.uyuy[5]:=v2;
+							v2:=2;
+							return(5)
+							else
+								write(2+2)
+							fi;
+							write(2+2)
+						fi;
+						while v2=0 do
+							write(5+66666)
+						endwh;
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+					else
+						write(2+2)
+					fi;
+					write(2+2)
+				fi;
+				while v2=0 do
+					write(5+66666)
+				endwh;
+				read(v2);
+				c:=p[12];
+				lklk[1]:=lklk[2];
+				hhhh.cxcx:=v1;
+				jjjj.uyuy[5]:=v2;
+				v2:=2
+			end
+	begin
+		v1 := v2 ;
+		v2 := 3 ;
+		if 5+5*(5+1) < 55 then
+			while v2=0 do
+				write(5+66666)
+			endwh;
+			read(v2);
+			c:=p[12];
+			lklk[1]:=lklk[2];
+			hhhh.cxcx:=v1;
+			jjjj.uyuy[5]:=v2;
+			v2:=2;
+			return(5)
+		else
+			if 5+5*(5+1) < 55 then
+			while v2=0 do
+				read(v2);
+				c:=p[12];
+				lklk[1]:=lklk[2];
+				hhhh.cxcx:=v1;
+				jjjj.uyuy[5]:=v2;
+				v2:=2;
+				if 5+5*(5+1) < 55 then
+					while v2=0 do
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+				else
+					if 5+5*(5+1) < 55 then
+					while v2=0 do
+						read(v2);
+						c:=p[12];
+						lklk[1]:=lklk[2];
+						hhhh.cxcx:=v1;
+						jjjj.uyuy[5]:=v2;
+						v2:=2;
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+					else
+						write(2+2)
+					fi;
+					write(2+2)
+				fi;
+				while v2=0 do
+					write(5+66666)
+				endwh;
+				write(5+66666)
+			endwh;
+			read(v2);
+			c:=p[12];
+			lklk[1]:=lklk[2];
+			hhhh.cxcx:=v1;
+			jjjj.uyuy[5]:=v2;
+			v2:=2;
+			return(5)
+			else
+				write(2+2)
+			fi;
+			write(2+2)
+		fi;
+		while v2=0 do
+			write(5+66666)
+		endwh;
+		read(v2);
+		c:=p[12];
+		lklk[1]:=lklk[2];
+		hhhh.cxcx:=v1;
+		jjjj.uyuy[5]:=v2;
+		v2:=2
+	end
+
+	procedure f3(var integer a;integer b;bbb sd);
+		type aaa=integer;
+			 bbb=char;
+			 vvv=bbb;
+			 sss=array [1..100] of char;
+			 {你好，世界！}
+			 mmm=record 
+						integer qqq,cxcx;
+						char lll,wewe;
+						array [2..10] of integer kjkj,uyuy;
+				 end;
+		var integer v1,vd,vf,vg;
+			integer v2;
+			char c,das,dss;
+			mmm o;
+			sss p;
+			sss iii;
+			array [1..100] of char opop,sdshj;
+			array [1..100] of integer lklk;
+			record 
+						integer qqq,cxcx;
+						char lll,wewe;
+						array [2..10] of integer kjkj,uyuy;
+			end  hhhh,jjjj;
+		begin
+			v1 := v2 ;
+			v2 := 3 ;
+			if 5+5*(5+1) < 55 then
+				while v2=0 do
+					write(5+66666)
+				endwh;
+				read(v2);
+				c:=p[12];
+				lklk[1]:=lklk[2];
+				hhhh.cxcx:=v1;
+				jjjj.uyuy[5]:=v2;
+				v2:=2;
+				return(5)
+			else
+				if 5+5*(5+1) < 55 then
+				while v2=0 do
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					if 5+5*(5+1) < 55 then
+						while v2=0 do
+							write(5+66666)
+						endwh;
+						read(v2);
+						c:=p[12];
+						lklk[1]:=lklk[2];
+						hhhh.cxcx:=v1;
+						jjjj.uyuy[5]:=v2;
+						v2:=2;
+						return(5)
+					else
+						if 5+5*(5+1) < 55 then
+						while v2=0 do
+							read(v2);
+							c:=p[12];
+							lklk[1]:=lklk[2];
+							hhhh.cxcx:=v1;
+							jjjj.uyuy[5]:=v2;
+							v2:=2;
+							write(5+66666)
+						endwh;
+						read(v2);
+						c:=p[12];
+						lklk[1]:=lklk[2];
+						hhhh.cxcx:=v1;
+						jjjj.uyuy[5]:=v2;
+						v2:=2;
+						return(5)
+						else
+							write(2+2)
+						fi;
+						write(2+2)
+					fi;
+					while v2=0 do
+						write(5+66666)
+					endwh;
+					write(5+66666)
+				endwh;
+				read(v2);
+				c:=p[12];
+				lklk[1]:=lklk[2];
+				hhhh.cxcx:=v1;
+				jjjj.uyuy[5]:=v2;
+				v2:=2;
+				return(5)
+				else
+					write(2+2)
+				fi;
+				write(2+2)
+			fi;
+			while v2=0 do
+				write(5+66666)
+			endwh;
+			read(v2);
+			c:=p[12];
+			lklk[1]:=lklk[2];
+			hhhh.cxcx:=v1;
+			jjjj.uyuy[5]:=v2;
+			v2:=2
+		end
+	begin
+		v1 := v2 ;
+		v2 := 3 ;
+		if 5+5*(5+1) < 55 then
+			while v2=0 do
+				write(5+66666)
+			endwh;
+			read(v2);
+			c:=p[12];
+			lklk[1]:=lklk[2];
+			hhhh.cxcx:=v1;
+			jjjj.uyuy[5]:=v2;
+			v2:=2;
+			return(5)
+		else
+			if 5+5*(5+1) < 55 then
+			while v2=0 do
+				read(v2);
+				c:=p[12];
+				lklk[1]:=lklk[2];
+				hhhh.cxcx:=v1;
+				jjjj.uyuy[5]:=v2;
+				v2:=2;
+				if 5+5*(5+1) < 55 then
+					while v2=0 do
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+				else
+					if 5+5*(5+1) < 55 then
+					while v2=0 do
+						read(v2);
+						c:=p[12];
+						lklk[1]:=lklk[2];
+						hhhh.cxcx:=v1;
+						jjjj.uyuy[5]:=v2;
+						v2:=2;
+						write(5+66666)
+					endwh;
+					read(v2);
+					c:=p[12];
+					lklk[1]:=lklk[2];
+					hhhh.cxcx:=v1;
+					jjjj.uyuy[5]:=v2;
+					v2:=2;
+					return(5)
+					else
+						write(2+2)
+					fi;
+					write(2+2)
+				fi;
+				while v2=0 do
+					write(5+66666)
+				endwh;
+				write(5+66666)
+			endwh;
+			read(v2);
+			c:=p[12];
+			lklk[1]:=lklk[2];
+			hhhh.cxcx:=v1;
+			jjjj.uyuy[5]:=v2;
+			v2:=2;
+			return(5)
+			else
+				write(2+2)
+			fi;
+			write(2+2)
+		fi;
+		while v2=0 do
+			write(5+66666)
+		endwh;
+		read(v2);
+		c:=p[12];
+		lklk[1]:=lklk[2];
+		hhhh.cxcx:=v1;
+		jjjj.uyuy[5]:=v2;
+		v2:=2
+	end
+
+	begin
+		f3(1,2,3);
+
+		f1(1,2,3);
+		write(2+2)
+	end
